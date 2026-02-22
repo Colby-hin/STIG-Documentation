@@ -11,3 +11,4 @@ This repository documents Windows 11 STIG remediations performed on an Azure vir
 5) [STIG: WN11-SO-000025](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
 6) [STIG: WN11-SO-000010](https://medium.com/@colbyhinchy/using-a-stig-scan-template-74755165e23b)
 7) [STIG: WN11-CC-000325](Stigs/STIG-WN11-CC-000325.md)
+8) [STIG: WN11-CC-000155](Stigs/STIG-WN11-CC-000155.md)
