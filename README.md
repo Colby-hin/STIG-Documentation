@@ -13,4 +13,4 @@ This repository documents Windows 11 STIG remediations performed on an Azure vir
 7) [STIG: WN11-CC-000325](Stigs/STIG-WN11-CC-000325.md)
 8) [STIG: WN11-CC-000155](Stigs/STIG-WN11-CC-000155.md)
 9) [STIG: WN11-CC-000320](Stigs/STIG-WN11-CC-000320.md)
-10) [STIG: WN11-CC-000390](Stigs/STIG-WN11-CC-000390.md)
+
