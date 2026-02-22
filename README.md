@@ -1,1 +1,8 @@
-# STIG-Documentation
+# STIG Remediation Documentation
+
+This repository documents Windows 11 STIG remediations performed on an Azure virtual machine using PowerShell and validated using Tenable compliance scans.
+
+---
+
+1) [STIG: WN11-AC-000045](Stigs/STIG-WN11-AC-000045.md)  
+2) [STIG: WN11-AU-000075](Stigs/STIG-WN11-AU-000075.md)
